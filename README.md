@@ -18,8 +18,10 @@ By [Gal Weizman](https://weizman.github.io/website/)
 - ["New Gen" Techniques](#new-gen-technique)
   - [SourceMappingURL](#sourcemappingurl)
 
+<a name="intro"></a>
 ### Intro
 
+<a name="what-is-browser-anti-debugging"></a>
 #### What Is Browser Anti Debugging?
 
 Anti Debugging techniques allow attackers to tell whether their malicious code is being inspected or not when is executed within the browser.
@@ -28,6 +30,8 @@ The idea is to use the tools given by the browser (which is simply javascript in
 Usually, these techniques are used by attackers to hide their malicious activity and protect their code from being uncovered. 
 Meaning, attackers can protect their code using anti debugging techniques, that when find that the code is being inspected stop the attack instead of completing it.
 
+<a name="new-gen-technique"></a>
 ### ["New Gen" Techniques](./NewGenTechniques)
 
+<a name="sourcemappingurl"></a>
 #### [SourceMappingURL](./NewGenTechniques/SourceMappingURL)
