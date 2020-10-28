@@ -12,4 +12,4 @@ if ((stopTime - startTime) > 1000) {
 ```
 ### Resources
 
-- [Original explanation](https://x-c3ll.github.io/posts/javascript-antidebugging/#0x03-differences-of-time) [[J. M. Fernández](https://x-c3ll.github.io/posts)]
+- [Original explanation](https://x-c3ll.github.io/posts/javascript-antidebugging/#0x03-differences-of-time) [[J. M. Fernández](https://x-c3ll.github.io)]
