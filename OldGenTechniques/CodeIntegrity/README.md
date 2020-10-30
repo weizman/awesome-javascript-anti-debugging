@@ -1,3 +1,8 @@
+# CodeIntegrity
+
+### POC
+
+```javascript
 function hashCode (s) {
     var hash = 0;
     if (s.length == 0) {
@@ -21,3 +26,7 @@ function main() {
 }
 
 main()
+```
+### Resources
+
+- [Original explanation](https://x-c3ll.github.io/posts/javascript-antidebugging/#0x08-implicit-control-of-code-integrity) [[J. M. Fernández](https://x-c3ll.github.io)]
