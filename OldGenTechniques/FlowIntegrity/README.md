@@ -12,7 +12,7 @@ function getCallStack() {
     return stack
 }
 function test1() {
-    console.log(getCallStack());
+    if ('#test1test2test3test4' !== getCallStack()) alert('flow of execution was tampered!')
 }
 function test2() {
     test1();
@@ -25,6 +25,11 @@ function test4() {
 }
 test4();
 ```
+
+### About
+
+The idea here is to test the integrity of the flow of execution "on the fly" and to pick the next behaviour based on it.
+Normally, if calling `getCallStack()` outputs something different than expected, it probably means someone has been playing around with the code.
 
 ### Resources
 
