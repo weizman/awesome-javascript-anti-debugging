@@ -20,6 +20,12 @@ By [Gal Weizman](https://weizman.github.io/website/)
 - ["Old Gen" Techniques](#old-gen-technique)
   - [TimeDiff](#time-diff)
   - [ChromeGetter](#chrome-getter)
+  - [CodeIntegrity](#code-integrity)
+  - [FlowIntegrity](#flow-integrity)
+  - [HooksDetection](#hooks-detection)
+  - [RestrictionalEnviroments](#restrictional-enviroments)
+  - [SizeChanges](#size-changes)
+  - [debugger;](#debugger)
 
 <a name="intro"></a>
 ### Intro
@@ -47,3 +53,24 @@ Meaning, attackers can protect their code using anti debugging techniques, that 
 
 <a name="chrome-getter"></a>
 #### [ChromeGetter](./OldGenTechniques/ChromeGetter)
+
+<a name="code-integrity"></a>
+#### [CodeIntegrity](./OldGenTechniques/CodeIntegrity)
+
+<a name="flow-integrity"></a>
+#### [FlowIntegrity](./OldGenTechniques/FlowIntegrity)
+
+<a name="hooks-detection"></a>
+#### [HooksDetection](./OldGenTechniques/HooksDetection)
+
+<a name="restrictional-enviroments"></a>
+#### [RestrictionalEnviroments](./OldGenTechniques/RestrictionalEnviroments)
+
+<a name="size-changes"></a>
+#### [SizeChanges](./OldGenTechniques/SizeChanges)
+
+<a name="debugger"></a>
+#### [debugger;](./OldGenTechniques/debugger;)
+
+
+
