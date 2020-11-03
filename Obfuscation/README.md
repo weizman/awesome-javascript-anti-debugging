@@ -51,4 +51,5 @@ var _0xb3cd=["\x48\x65\x6C\x6C\x6F\x20\x57\x6F\x72\x6C\x64\x21","\x6C\x6F\x67"];
 
 ### References
 
-[javascript obfuscators introduction](https://www.youtube.com/watch?v=4dxPizOvM8g) [by [JSScrambler CTO](Pedro Fortuna)]
+- [[J. M. Fernández](https://x-c3ll.github.io)]
+- [javascript obfuscators introduction](https://www.youtube.com/watch?v=4dxPizOvM8g) [by [JSScrambler CTO](Pedro Fortuna)]
