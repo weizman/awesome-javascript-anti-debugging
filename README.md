@@ -74,7 +74,7 @@ Meaning, attackers can protect their code using anti debugging techniques, that 
 #### [debugger;](./OldGenTechniques/debugger;)
 
 <a name="obfuscation"></a>
-### [obfuscation](./OldGenTechniques/Obfuscation)
+### [obfuscation](./Obfuscation)
 
 
 
