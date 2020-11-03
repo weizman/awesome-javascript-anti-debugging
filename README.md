@@ -26,6 +26,7 @@ By [Gal Weizman](https://weizman.github.io/website/)
   - [RestrictionalEnviroments](#restrictional-enviroments)
   - [SizeChanges](#size-changes)
   - [debugger;](#debugger)
+- [Obfuscation](#obfuscation)
 
 <a name="intro"></a>
 ### Intro
@@ -71,6 +72,9 @@ Meaning, attackers can protect their code using anti debugging techniques, that 
 
 <a name="debugger"></a>
 #### [debugger;](./OldGenTechniques/debugger;)
+
+<a name="obfuscation"></a>
+### [obfuscation](./OldGenTechniques/Obfuscation)
 
 
 
