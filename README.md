@@ -7,7 +7,7 @@ The most discussed aspect is the different types of security breaches, such as X
 
 Javascript Anti Debugging on the other hand is an aspect that is not disscued enough, but might have a large potential impact when it comes to attacking and defending in the web security world. 
 
-*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/qazbnm456/awesome-web-security/blob/master/CONTRIBUTING.md) of the [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) repo before contributing - we follow similar guidelines here!*
 
 By [Gal Weizman](https://weizman.github.io/website/)
 
