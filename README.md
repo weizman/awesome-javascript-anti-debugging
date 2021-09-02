@@ -17,6 +17,7 @@ By [Gal Weizman](https://weizman.github.io/website/)
   - [What Is Browser Anti Debugging?](#what-is-browser-anti-debugging)
 - ["New Gen" Techniques](#new-gen-technique)
   - [SourceMappingURL](#sourcemappingurl)
+  - [Chromium Devtools Scope Pane](#ChromiumDevtoolsScopePane)
 - ["Old Gen" Techniques](#old-gen-technique)
   - [TimeDiff](#time-diff)
   - [ChromeGetter](#chrome-getter)
@@ -45,6 +46,9 @@ Meaning, attackers can protect their code using anti debugging techniques, that 
 
 <a name="sourcemappingurl"></a>
 #### [SourceMappingURL](./NewGenTechniques/SourceMappingURL)
+
+<a name="ChromiumDevtoolsScopePane"></a>
+#### [Chromium Devtools Scope Pane](./NewGenTechniques/ChromiumDevtoolsScopePane)
 
 <a name="old-gen-technique"></a>
 ### ["Old Gen" Techniques](./OldGenTechniques)
