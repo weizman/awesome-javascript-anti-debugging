@@ -32,5 +32,5 @@ main();
 ```
 ### Resources
 
-- [Original research and fully detailed explanation](https://weizman.github.io/website/?javascript-anti-debugging-some-next-level-shit-part-2) [[Gal Weizman](https://weizman.github.io/website)]
-- [Demo site](https://debug-tracker.ue.r.appspot.com/) [[Gal Weizman](https://weizman.github.io/website)]
+- [Original research and fully detailed explanation](https://weizman.github.io/page-js-anti-debug-2/) [[Gal Weizman](https://weizman.github.io/)]
+- [Demo site](https://debug-tracker.ue.r.appspot.com/) [[Gal Weizman](https://weizman.github.io/)]
