@@ -47,7 +47,7 @@ var _0xb3cd=["\x48\x65\x6C\x6C\x6F\x20\x57\x6F\x72\x6C\x64\x21","\x6C\x6F\x67"];
 
 #### Paid
 
-- [jscrambler](/https://jscrambler.com/)
+- [jscrambler](https://jscrambler.com/)
 
 ### References
 
