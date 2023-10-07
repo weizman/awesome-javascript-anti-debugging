@@ -2,7 +2,10 @@
 <br>
 <a href="?enable">enable poc</a>
 <p>
-    on Chrome <= 116, click <a href="?enable">enable poc</a> then open the devtools console - chrome should <b>crash</b>
+    on Chrome <= 116, click <a href="?enable">enable poc</a> then open the devtools console - chrome should <b>crash entirely</b> (was fixed to crash tab only)
+</p>
+<p>
+    Learn more at <a href="https://weizmangal.com/awesome-javascript-anti-debugging/NewGenTechniques/ChromiumShadowRootAbuse/">ChromiumShadowRootAbuse</a>
 </p>
 <script>
 const enabled = location.href.includes('disable');
