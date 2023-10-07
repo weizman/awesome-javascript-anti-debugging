@@ -1,6 +1,9 @@
 <a href="?disable">disable poc</a>
 <br>
 <a href="?enable">enable poc</a>
+<p>
+    on Chrome <= 116, click <a href="?enable">enable poc</a> then open the devtools console - chrome should <b>crash</b>
+</p>
 <script>
 const enabled = location.href.includes('disable');
 
