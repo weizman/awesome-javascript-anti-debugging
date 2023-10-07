@@ -1,5 +1,7 @@
 # Chromium Shadow Root Abuse
 
+on Chrome <= 116, click "enable poc" then open the devtools console - chrome should crash entirely (was fixed to crash tab only) 
+
 ### POC
 
 ```html
