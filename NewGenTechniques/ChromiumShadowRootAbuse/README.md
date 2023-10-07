@@ -21,4 +21,5 @@ const enabled = location.href.includes('disable');
 ```
 ### Resources
 
+- [Live DEMO!](https://weizmangal.com/awesome-javascript-anti-debugging/NewGenTechniques/ChromiumShadowRootAbuse/poc.html)
 - [Bug report](https://bugs.chromium.org/p/chromium/issues/detail?id=1465129)
