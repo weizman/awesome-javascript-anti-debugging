@@ -18,6 +18,7 @@ By [Gal Weizman](https://weizman.github.io/website/)
 - ["New Gen" Techniques](#new-gen-technique)
   - [SourceMappingURL](#sourcemappingurl)
   - [Chromium Devtools Scope Pane](#ChromiumDevtoolsScopePane)
+  - [ChromiumShadowRootAbuse](#ChromiumShadowRootAbuse)
 - ["Old Gen" Techniques](#old-gen-technique)
   - [TimeDiff](#time-diff)
   - [ChromeGetter](#chrome-getter)
@@ -49,6 +50,9 @@ Meaning, attackers can protect their code using anti debugging techniques, that 
 
 <a name="ChromiumDevtoolsScopePane"></a>
 #### [Chromium Devtools Scope Pane](./NewGenTechniques/ChromiumDevtoolsScopePane)
+
+<a name="ChromiumShadowRootAbuse"></a>
+#### [Chromium Shadow Root Abuse](./NewGenTechniques/ChromiumShadowRootAbuse)
 
 <a name="old-gen-technique"></a>
 ### ["Old Gen" Techniques](./OldGenTechniques)
