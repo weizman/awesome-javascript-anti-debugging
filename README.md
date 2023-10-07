@@ -9,9 +9,11 @@ Javascript Anti Debugging on the other hand is an aspect that is not disscued en
 
 *Please read the [contribution guidelines](https://github.com/qazbnm456/awesome-web-security/blob/master/CONTRIBUTING.md) of the [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) repo before contributing - we follow similar guidelines here!*
 
-> By [Gal Weizman](https://weizman.github.io/website/)
+> _By [Gal Weizman](https://weizman.github.io/website/)_
 
-<b>ATTENTION:</b> YOU SHOULD PREFER THE [SERVED VERSION](https://weizmangal.com/awesome-javascript-anti-debugging/), WHERE YOU CAN ALSO INTERACT WITH LIVE DEMOS!
+## ATTENTION ⚠️
+
+YOU SHOULD PREFER THE [SERVED VERSION](https://weizmangal.com/awesome-javascript-anti-debugging/), WHERE YOU CAN ALSO INTERACT WITH LIVE DEMOS!
 
 ## Contents
 
