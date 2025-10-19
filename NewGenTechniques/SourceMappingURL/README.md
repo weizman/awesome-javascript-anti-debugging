@@ -5,7 +5,7 @@
 ```javascript
 function  smap(url, data)  {
     const script = document.createElement('script');
-    script.textContent =  `//# SourceMappingURL=${url}?data=${JSON.stringify(data)}`;
+    script.textContent =  `//# sourceMappingURL=${url}?data=${JSON.stringify(data)}`;
     document.head.appendChild(script);
     script.remove();
 }
